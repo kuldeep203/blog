@@ -5,8 +5,8 @@ pip: Python package installer.
 
 1. Clone the Repository
    Clone the repository to your local machine:
-   git clone https://github.com/yourusername/django-blog-app.git
-   cd django-blog-app
+   git clone git@github.com:kuldeep203/blog.git
+   cd blog
 2. Create and Activate a Virtual Environment
    python -m venv venv
 3. Active venv
