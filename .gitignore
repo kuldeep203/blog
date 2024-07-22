@@ -1,0 +1,58 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environment
+venv/
+.env
+
+# Django
+db.sqlite3
+/static/
+/media/
+
+# Django migrations
+*/migrations/*
+!*/migrations/__init__.py
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+*.env
+
+# Logs
+*.log
+
+# Coverage reports
+.coverage
+*.coverage
+nosetests.xml
+coverage.xml
+*.cover
+
+# mypy
+.mypy_cache/
+
+# Django Swagger
+swagger/
+
+# ReDoc
+redoc/
+
+# Other
+*.DS_Store
+*.pytest_cache/
+*.tox/
+*.nox/
+*.coverage
+*.hypothesis/
